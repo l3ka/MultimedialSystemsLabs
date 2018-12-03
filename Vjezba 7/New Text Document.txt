@@ -1,0 +1,4 @@
+0, 255 uit8
+0, 1 float
+
+imgasfloat
